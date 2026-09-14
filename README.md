@@ -38,7 +38,7 @@ A workflow for evaluating RAG applications using LangSmith.
 
 1. Clone the repository
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Snipy19/agentic-rag-langgraph
    cd agentic-rag-langgraph
    ```
 
