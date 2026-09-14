@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+langsmith
+python-dotenv
+pandas
+openai
